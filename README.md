@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title> Escrita-acadêmica </title>
+    Escrita-acadêmica </title>
 </head>
 <body>
     <h1> Escrita-acadêmica </h1>
